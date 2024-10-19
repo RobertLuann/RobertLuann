@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=100EFF&width=435&lines=+Ol%C3%A1!+Me+chamo+Robert%2C+bem+vindo+ao+meu+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=100EFF&width=435&lines=+Ol%C3%A1!+Me+chamo+Robert%2C+bem+vindo+ao+meu+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### Sou um estudante de Ciência da Computação, na UFERSA, fascinado pela tecnologia e futuro desenvolvedor 😁.
 
@@ -32,6 +32,6 @@
 ## 📫 Entre em contato:
 
 <p align="left">
-  <a href="www.linkedin.com/in/robert-luann-313971319" target="_blank">
+  <a href="https://www.linkedin.com/in/robert-luann-313971319" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"/>&nbsp;
 </p>
