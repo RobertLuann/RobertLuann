@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=100EFF&width=435&lines=+Ol%C3%A1!+Me+chamo+Robert%2C+bem+vindo+ao+meu+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Me+chamo+Robert.+%F0%9F%91%8B;Bem+vindo+ao+meu+GitHub!+%F0%9F%98%81)](https://git.io/typing-svg)
 
 ### Sou um estudante de Ciência da Computação, na UFERSA, fascinado pela tecnologia e futuro desenvolvedor 😁.
 
