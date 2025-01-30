@@ -10,8 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  ![aws-certified-cloud-practitioner](https://www.credly.com/badges/5903ff77-fbca-430a-9adf-56c273b002e2/public_url)
 </p>
+![aws-certified-cloud-practitioner](https://www.credly.com/badges/5903ff77-fbca-430a-9adf-56c273b002e2/public_url)
 
 ## 🌱 Tecnologias e Ferramentas que estou aprendendo:
 
